@@ -89,7 +89,7 @@ def changing_alan
  		{
         :grace_hopper => {
           :known_for => "COBOL",
-    end 
+    end
        def changing_alan
           	programmer_hash =
           	programmer_hash =
